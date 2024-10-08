@@ -15,6 +15,7 @@
 
 4. ¿Que es HTML? ¿Sabes como se estructura?
     HTML es un lenguaje de marca que se utiliza para la creacion de paginas web en diferentes versiones, su estructura es definida como basica y tiene un codigo para la presentacion del contenido de una pagina web.
+    ```
     <!DOCTYPE html>
     <html lang="eng">
     <head>
@@ -23,6 +24,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     </html>
+    ```
 
 5. ¿Que es CSS?
     CSS es un lenguaje de marca que maneja el diseño y presentacion de las paginas web, es decir, como lucen cuando un usuario las visita y funciona junto a HTML.

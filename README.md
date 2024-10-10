@@ -12,10 +12,11 @@
     |------------|--------------
     |HTML |: https://es.wikipedia.org/wiki/HTML
     |CSS |: https://blog.hubspot.es/website/que-es-css
+    |XML |: https://aws.amazon.com/es/what-is/xml/
 
 4. ¿Que es HTML? ¿Sabes como se estructura?
     HTML es un lenguaje de marca que se utiliza para la creacion de paginas web en diferentes versiones, su estructura es definida como basica y tiene un codigo para la presentacion del contenido de una pagina web.
-    Un ejemplo de su estructura es el siguiente:
+    Un ejemplo de su estructura es el siguiente:    
     ```
     <!DOCTYPE html>
     <html lang="eng">
